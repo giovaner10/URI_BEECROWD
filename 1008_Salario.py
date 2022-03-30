@@ -1,0 +1,5 @@
+n=input()
+h=int(input())
+v=float(input())
+print(f'NUMBER = {n}')
+print('SALARY = U$ %0.2f' %(h*v))
